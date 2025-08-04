@@ -21,8 +21,11 @@ A **responsive, static clone** of the ClearTax homepage built with pure **HTML5 
 
 ## 🖼️ Screenshots  
 
-![Desktop view](screenshots/desktop.png)
-![Mobile view](screenshots/mobile.png)
+## Desktop View
+![Desktop view](screenshot/desktop.png)
+
+## Mobile View
+![Mobile view](screenshot/mobile.png)
 
 ## 🚀 Quick Start
 
