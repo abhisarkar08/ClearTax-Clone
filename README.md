@@ -1,45 +1,35 @@
-ClearTax Website Clone
+# 💼 ClearTax Website Clone
 
-This is a responsive clone of the ClearTax website made using only HTML and CSS. The project is fully focused on the design part.
+A **responsive, static clone** of the ClearTax homepage built with pure **HTML5 + CSS3**—no JavaScript, no backend.
 
-📄 Project Overview
+## ✨ Highlights
 
-This project is a static clone of the ClearTax website.
+- 🎨 Pixel-perfect layout of the original site
 
-Created to practice HTML structure, CSS styling, and responsive web design.
+- 📱 Fully responsive (desktop, tablet, mobile) via Flexbox + Media Queries
+  
+- 🧭 Clean navigation bar with icon hover effects
+ 
+- ⚡ Lightweight: fast load, zero external libs
 
-No JavaScript or backend is used.
+## 🛠️ Stack
 
-🛠️ Technologies Used
+- HTML5 (semantic markup)  
+- CSS3 (Flexbox, Grid, variables, transitions)
 
-HTML5
+- Media Queries for breakpoints
 
-CSS3
+## 🖼️ Screenshots  
 
-Media Queries (for responsiveness)
+![Desktop view](screenshots/desktop.png)
+![Mobile view](screenshots/mobile.png)
 
-💻 Features
+## 🚀 Quick Start
 
-Fully responsive design
+git clone https://github.com/abhisarkar08/cleartax-clone.git
 
-Works well on desktop, tablet, and mobile
+cd cleartax-clone
 
-Navigation bar with icons
+open index.html # or just double-click
 
-Clean and simple layout
-
-📱 Responsiveness
-
-The design adjusts smoothly on:
-
-Desktop
-
-Tablet
-
-Mobile
-
-📂 Project Status
-
-✔️ Completed - The website design part is done.
-
-❌ Not included - Backend or interactive JavaScript features.
+> Design inspired by the original [ClearTax](https://cleartax.in) site. This project focuses solely on front-end layout and responsiveness.
